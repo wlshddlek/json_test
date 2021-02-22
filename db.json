@@ -86,5 +86,59 @@
         }
     },
     
-    "specialinfos": {}
+    "specialinfos": {
+    "kia_test_ride": {
+        "parking": "전시장 전면 주차 가능하며, 여성회관 공영주차장이 인접(10M)",
+        "car_list": [
+            {
+                "name": "KA4 카니발",
+                "color": "스노우화이트펄",
+                "color_in": "코튼베이지",
+                "model": "KA4 카니발 9인승 자가용 2.2 디젤 노블레스",
+                "photo_url": "http://t1.daumcdn.net/place/60BD5CA921824BBEB21F8FA9832325FA",
+                "outlink_url": "https://www.kia.com/kr/vehicles/4thcarnival/microsite.html"
+            },
+            {
+                "name": "모닝",
+                "color": "순백색",
+                "color_in": "블랙",
+                "model": "모닝 5 상품성개선 해치백 가솔린 시그니처 A/T",
+                "photo_url": "http://t1.daumcdn.net/place/100BAACF64224987A54E43285D473C32",
+                "outlink_url": "https://www.kia.com/kr/vehicles/morning/microsite.html"
+            },
+            {
+                "name": "MQ4 쏘렌토",
+                "color": "미네랄 블루",
+                "color_in": "새들브라운",
+                "model": "MQ4 쏘렌토 7인승 디젤 2.2 노블레스 2WD DCT",
+                "photo_url": "http://t1.daumcdn.net/place/5EB35080F5234F89A2E81AD162623808",
+                "outlink_url": "https://www.kia.com/kr/vehicles/4thsorento/microsite.html"
+            },
+            {
+                "name": "K9",
+                "color": "판테라메탈",
+                "color_in": "블랙원톤",
+                "model": "K9 3.8 플래티넘+베스트셀렉션1 AWD 3 21MY",
+                "photo_url": "http://t1.daumcdn.net/place/23DF4F96765447089082FBE551F971F6",
+                "outlink_url": "https://www.kia.com/kr/vehicles/k9/features.html"
+            },
+            {
+                "name": "DL3 K5",
+                "color": "인터스텔라그레이",
+                "color_in": "새들브라운",
+                "model": "DL3 K5 자가용 GSL 2.0 노블레스 A/T",
+                "photo_url": "http://t1.daumcdn.net/place/1F63A26B8A32455DA202B74DD71916E1",
+                "outlink_url": "https://www.kia.com/kr/vehicles/3rdgenk5/features.html"
+            },
+            {
+                "name": "셀토스",
+                "color": "다크 오션 블루",
+                "color_in": "블랙",
+                "model": "셀토스 1.6 가솔린 시그니처 4WD",
+                "photo_url": "http://t1.daumcdn.net/place/4977388F3A83444EAE1D733C0920C745",
+                "outlink_url": "https://www.kia.com/kr/vehicles/seltos/features.html"
+            }
+        ]
+    }
+}
 }
