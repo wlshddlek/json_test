@@ -85,26 +85,6 @@
             "page_size": 3
         }
     },
-    "place_review_set": {
-        "view": "on",
-        "kakaomap_score_info": {
-            "review_count": 0,
-            "total_score": 0,
-            "average_score": 0,
-            "exist_review_count": 0
-        },
-        "kakaoplace_score_info": {
-            "review_count": 0,
-            "total_score": 0,
-            "average_score": 0,
-            "exist_review_count": 0
-        },
-        "daumplace_score_info": {
-            "review_count": 0,
-            "total_score": 0,
-            "average_score": 0,
-            "exist_review_count": 0
-        }
-    },
+    
     "specialinfos": {}
 }
