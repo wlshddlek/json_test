@@ -1,0 +1,110 @@
+{
+    "baseinfos": {
+        "confirmid": "8152821",
+        "name": "현대자동차 구성대리점",
+        "display_catename": "자동차판매점",
+        "catename": "자동차판매점",
+        "cateid": "1827",
+        "cate_restaurant_yn": "N",
+        "cate_vote_yn": "N",
+        "fiy_each_item_yn": "N",
+        "x": 524277,
+        "y": 1054360,
+        "address_disp": "경기 용인시 기흥구 용구대로 2333 (마북동)",
+        "address_jibun": "마북동 502-257",
+        "address_road": "경기 용인시 기흥구 용구대로 2333",
+        "base_zone_no": "16922",
+        "phonenumbers": [
+            {
+                "tel": "031-284-0001"
+            }
+        ],
+        "homepages": [
+            "https://www.hyundai.com"
+        ],
+        "roadview": {
+            "panoid": "1102099554",
+            "pan": 266,
+            "tilt": -2,
+            "x": 524355,
+            "y": 1054365
+        },
+        "navi_guide": {
+            "guide_id": "1059312",
+            "name": "입구",
+            "x": 524285,
+            "y": 1054414,
+            "flag": "G"
+        },
+        "metadata": {
+            "updated_at": "2020-04-24 14:30:33"
+        }
+    },
+    "hour_infos": {
+        "opening_hours": {
+            "periods": [
+                {
+                    "period_name": "영업시간",
+                    "time_list": [
+                        {
+                            "time": "08:00 ~ 21:00",
+                            "day_of_week": "매일"
+                        }
+                    ]
+                }
+            ]
+        },
+        "day_offs": {
+            "offday_list": []
+        },
+        "now": {
+            "open_status": {
+                "code": "OPEN",
+                "display_text": "영업중"
+            }
+        }
+    },
+    "photo_set": {
+        "total_count": 1,
+        "photos": [
+            {
+                "photo_id": 0,
+                "photo_type": "FRANCHISE",
+                "photo_url": "http://cfile75.uf.daum.net/image/9989D03359E80C4501A831"
+            }
+        ],
+        "req": {
+            "page": 1,
+            "page_size": 6
+        }
+    },
+    "review_set": {
+        "total_count": 0,
+        "req": {
+            "page": 1,
+            "page_size": 3
+        }
+    },
+    "place_review_set": {
+        "view": "on",
+        "kakaomap_score_info": {
+            "review_count": 0,
+            "total_score": 0,
+            "average_score": 0,
+            "exist_review_count": 0
+        },
+        "kakaoplace_score_info": {
+            "review_count": 0,
+            "total_score": 0,
+            "average_score": 0,
+            "exist_review_count": 0
+        },
+        "daumplace_score_info": {
+            "review_count": 0,
+            "total_score": 0,
+            "average_score": 0,
+            "exist_review_count": 0
+        }
+    },
+    "specialinfos": {}
+}
