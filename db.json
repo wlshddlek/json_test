@@ -19,7 +19,29 @@
                 "tel": "031-284-0001"
             }
         ],
-       
+        "homepages": [
+            "https://www.hyundai.com"
+        ],
+        "roadview": {
+            "panoid": "1102099554",
+            "pan": 266,
+            "tilt": -2,
+            "x": 524355,
+            "y": 1054365
+        },
+        "navi_guide": {
+            "guide_id": "1059312",
+            "name": "입구",
+            "x": 524285,
+            "y": 1054414,
+            "flag": "G"
+        },
+        "metadata": {
+            "updated_at": "2020-04-24 14:30:33"
+        }
     },
+   
+   
+   
     "specialinfos": {}
 }
