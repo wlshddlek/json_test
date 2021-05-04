@@ -1,144 +1,192 @@
 {
-    "baseinfos": {
-        "confirmid": "8152821",
-        "name": "현대자동차 구성대리점",
-        "display_catename": "자동차판매점",
-        "catename": "자동차판매점",
-        "cateid": "1827",
-        "cate_restaurant_yn": "N",
-        "cate_vote_yn": "N",
-        "fiy_each_item_yn": "N",
-        "x": 524277,
-        "y": 1054360,
-        "address_disp": "경기 용인시 기흥구 용구대로 2333 (마북동)",
-        "address_jibun": "마북동 502-257",
-        "address_road": "경기 용인시 기흥구 용구대로 2333",
-        "base_zone_no": "16922",
-        "phonenumbers": [
+    "own_place_id": 226,
+    "news_info": {
+        "page": 1,
+        "page_size": 10,
+        "total_count": 32,
+        "news_info_list": [
             {
-                "tel": "031-284-0001"
-            }
-        ],
-        "homepages": [
-            "https://www.hyundai.com"
-        ],
-        "roadview": {
-            "panoid": "1102099554",
-            "pan": 266,
-            "tilt": -2,
-            "x": 524355,
-            "y": 1054365
-        },
-        "navi_guide": {
-            "guide_id": "1059312",
-            "name": "입구",
-            "x": 524285,
-            "y": 1054414,
-            "flag": "G"
-        },
-        "metadata": {
-            "updated_at": "2020-04-24 14:30:33"
-        }
-    },
-    "hour_infos": {
-        "opening_hours": {
-            "periods": [
-                {
-                    "period_name": "영업시간",
-                    "time_list": [
-                        {
-                            "time": "08:00 ~ 21:00",
-                            "day_of_week": "매일"
-                        }
-                    ]
-                }
-            ]
-        },
-        "day_offs": {
-            "offday_list": []
-        },
-        "now": {
-            "open_status": {
-                "code": "OPEN",
-                "display_text": "영업중"
-            }
-        }
-    },
-    "photo_set": {
-        "total_count": 1,
-        "photos": [
-            {
-                "photo_id": 0,
-                "photo_type": "FRANCHISE",
-                "photo_url": "http://cfile75.uf.daum.net/image/9989D03359E80C4501A831"
-            }
-        ],
-        "req": {
-            "page": 1,
-            "page_size": 6
-        }
-    },
-    "review_set": {
-        "total_count": 0,
-        "req": {
-            "page": 1,
-            "page_size": 3
-        }
-    },
-    
-    "specialinfos": {
-    "hyundai_test_ride": {
-        "parking": "전시장 전면 주차 가능하며, 여성회관 공영주차장이 인접(10M)",
-        "car_list": [
-            {
-                "name": "KA4 카니발",
-                "color": "스노우화이트펄",
-                "color_in": "코튼베이지",
-                "model": "KA4 카니발 9인승 자가용 2.2 디젤 노블레스",
-                "photo_url": "http://t1.daumcdn.net/place/60BD5CA921824BBEB21F8FA9832325FA",
-                "outlink_url": "https://www.kia.com/kr/vehicles/4thcarnival/microsite.html"
+                "news_id": 198,
+                "own_place_id": 226,
+                "news_type": "coupon",
+                "title": "진진반상 가정의달 5월 맞이 쿠폰",
+                "content": "우리의 땅에서 생산된 좋은 식재료들로 재료마다 궁합에 따라 올바르게 조리한 음식을 제공합니다. \n가정의 달을 맞아 진진반상에서 99% 파격 할인가의 한상차림을 제공합니다. \n부모님 한분을 모시고 오실 때 마다 고창에서 직접 재배한 식재료로 임금님 수라상을 차려드립니다. 두분을 모시고 오시면 점심 저녁까지 차려드립니다",
+                "start_dttm": "2021-05-05 00:00:00",
+                "end_dttm": "2021-05-08 00:00:00",
+                "announce": true,
+                "status": "S",
+                "photo_list": [
+                    {
+                        "name": "스크린샷 2021-04-20 오후 2.40.46.png",
+                        "url": "http://t1-sandbox.kakaocdn.net/mystore/C5C6CCD14F2444B6945F651E8404CA7A",
+                        "photo_id": 198
+                    }
+                ]
             },
             {
-                "name": "모닝",
-                "color": "순백색",
-                "color_in": "블랙",
-                "model": "모닝 5 상품성개선 해치백 가솔린 시그니처 A/T",
-                "photo_url": "http://t1.daumcdn.net/place/100BAACF64224987A54E43285D473C32",
-                "outlink_url": "https://www.kia.com/kr/vehicles/morning/microsite.html"
+                "news_id": 237,
+                "own_place_id": 226,
+                "news_type": "notice",
+                "title": "일정 없는 알림 테스트",
+                "content": "이 알림은 일정이 없음\n일정이 없으면 미노출되어야함\n대신에 본문은 \n4줄가지",
+                "announce": false,
+                "status": "S",
+                "photo_list": []
             },
             {
-                "name": "MQ4 쏘렌토",
-                "color": "미네랄 블루",
-                "color_in": "새들브라운",
-                "model": "MQ4 쏘렌토 7인승 디젤 2.2 노블레스 2WD DCT",
-                "photo_url": "http://t1.daumcdn.net/place/5EB35080F5234F89A2E81AD162623808",
-                "outlink_url": "https://www.kia.com/kr/vehicles/4thsorento/microsite.html"
+                "news_id": 236,
+                "own_place_id": 226,
+                "news_type": "coupon",
+                "title": "더 신규 소식",
+                "content": "- 2년 근속 후, 2023년 5월 4일 이후 스톡옵션 행사 가능\n- 2년 근속 후 50%, 3년 재직 후 50% 분할 행사\n- 행사 가능 기간은 2023년 5월 4일 ~ 2028년 5월 4일",
+                "announce": false,
+                "status": "S",
+                "photo_list": []
             },
             {
-                "name": "K9",
-                "color": "판테라메탈",
-                "color_in": "블랙원톤",
-                "model": "K9 3.8 플래티넘+베스트셀렉션1 AWD 3 21MY",
-                "photo_url": "http://t1.daumcdn.net/place/23DF4F96765447089082FBE551F971F6",
-                "outlink_url": "https://www.kia.com/kr/vehicles/k9/features.html"
+                "news_id": 235,
+                "own_place_id": 226,
+                "news_type": "notice",
+                "title": "진진반상 글자수 최대 알림 20자로 ",
+                "content": "안녕하세요. 전략인사실 제이크 입니다.\n\n카카오 정규직 모든 크루는 근속기간에 따라 2021년 5월, 2022년 5월, 2023년 5월의 3년간에 걸쳐 각 200주씩 최대 600주의 스톡옵션 부여 대상이 됩니다.\n\n매년 5월말 기준 1년 이상 근속한 크루 200주, 6개월 이상 1년 미만 근속한 경우 100주가 부여될 예정입니다. 올해는 총 2,506명의 크루를 대상으로 472,900주의 스톡옵션이 부여됩니다.\n\n개인별 스톡옵션 계약서는 다음주 중에 회사 이메일로 발송될 예정이며, 도큐사인 프로그램을 통해 계약서 확인과 사인이 진행됩니다.\n\n\n1. 부여대상 \n\n- 2021년 5월 3일 기준, 카카오 원소속 정규직 크루\n- 2021년 5월 31일 기준으로 개인별 12개월 이상 재직 시 200주, 6개월 이상 12개월 미만 재직 시 100주 부여\n(단, 카카오 신입공채 및 인턴십 전형을 통해 입사한 신입 크루의 경우, 카카오 재직기간이 6개월 미만인 경우에도 인당 100주 부여, 이는 ",
+                "start_dttm": "2021-06-01 00:00:00",
+                "end_dttm": "2021-06-05 00:00:00",
+                "announce": false,
+                "status": "S",
+                "photo_list": [
+                    {
+                        "name": "스크린샷 2021-05-04 오후 1.57.27.png",
+                        "url": "http://t1-sandbox.kakaocdn.net/mystore/90BDB2B5AFED40BDA28CD22DC86387B8",
+                        "photo_id": 235
+                    }
+                ]
             },
             {
-                "name": "DL3 K5",
-                "color": "인터스텔라그레이",
-                "color_in": "새들브라운",
-                "model": "DL3 K5 자가용 GSL 2.0 노블레스 A/T",
-                "photo_url": "http://t1.daumcdn.net/place/1F63A26B8A32455DA202B74DD71916E1",
-                "outlink_url": "https://www.kia.com/kr/vehicles/3rdgenk5/features.html"
+                "news_id": 198,
+                "own_place_id": 226,
+                "news_type": "coupon",
+                "title": "진진반상 가정의달 5월 맞이 쿠폰",
+                "content": "우리의 땅에서 생산된 좋은 식재료들로 재료마다 궁합에 따라 올바르게 조리한 음식을 제공합니다. \n가정의 달을 맞아 진진반상에서 99% 파격 할인가의 한상차림을 제공합니다. \n부모님 한분을 모시고 오실 때 마다 고창에서 직접 재배한 식재료로 임금님 수라상을 차려드립니다. 두분을 모시고 오시면 점심 저녁까지 차려드립니다",
+                "start_dttm": "2021-05-05 00:00:00",
+                "end_dttm": "2021-05-08 00:00:00",
+                "announce": true,
+                "status": "S",
+                "photo_list": [
+                    {
+                        "name": "스크린샷 2021-04-20 오후 2.40.46.png",
+                        "url": "http://t1-sandbox.kakaocdn.net/mystore/C5C6CCD14F2444B6945F651E8404CA7A",
+                        "photo_id": 198
+                    }
+                ]
             },
             {
-                "name": "셀토스",
-                "color": "다크 오션 블루",
-                "color_in": "블랙",
-                "model": "셀토스 1.6 가솔린 시그니처 4WD",
-                "photo_url": "http://t1.daumcdn.net/place/4977388F3A83444EAE1D733C0920C745",
-                "outlink_url": "https://www.kia.com/kr/vehicles/seltos/features.html"
+                "news_id": 198,
+                "own_place_id": 226,
+                "news_type": "coupon",
+                "title": "진진반상 가정의달 5월 맞이 쿠폰",
+                "content": "우리의 땅에서 생산된 좋은 식재료들로 재료마다 궁합에 따라 올바르게 조리한 음식을 제공합니다. \n가정의 달을 맞아 진진반상에서 99% 파격 할인가의 한상차림을 제공합니다. \n부모님 한분을 모시고 오실 때 마다 고창에서 직접 재배한 식재료로 임금님 수라상을 차려드립니다. 두분을 모시고 오시면 점심 저녁까지 차려드립니다",
+                "start_dttm": "2021-05-05 00:00:00",
+                "end_dttm": "2021-05-08 00:00:00",
+                "announce": true,
+                "status": "S",
+                "photo_list": [
+                    {
+                        "name": "스크린샷 2021-04-20 오후 2.40.46.png",
+                        "url": "http://t1-sandbox.kakaocdn.net/mystore/C5C6CCD14F2444B6945F651E8404CA7A",
+                        "photo_id": 198
+                    }
+                ]
+            },
+            {
+                "news_id": 198,
+                "own_place_id": 226,
+                "news_type": "coupon",
+                "title": "진진반상 가정의달 5월 맞이 쿠폰",
+                "content": "우리의 땅에서 생산된 좋은 식재료들로 재료마다 궁합에 따라 올바르게 조리한 음식을 제공합니다. \n가정의 달을 맞아 진진반상에서 99% 파격 할인가의 한상차림을 제공합니다. \n부모님 한분을 모시고 오실 때 마다 고창에서 직접 재배한 식재료로 임금님 수라상을 차려드립니다. 두분을 모시고 오시면 점심 저녁까지 차려드립니다",
+                "start_dttm": "2021-05-05 00:00:00",
+                "end_dttm": "2021-05-08 00:00:00",
+                "announce": true,
+                "status": "S",
+                "photo_list": [
+                    {
+                        "name": "스크린샷 2021-04-20 오후 2.40.46.png",
+                        "url": "http://t1-sandbox.kakaocdn.net/mystore/C5C6CCD14F2444B6945F651E8404CA7A",
+                        "photo_id": 198
+                    }
+                ]
+            },
+            {
+                "news_id": 198,
+                "own_place_id": 226,
+                "news_type": "coupon",
+                "title": "진진반상 가정의달 5월 맞이 쿠폰",
+                "content": "우리의 땅에서 생산된 좋은 식재료들로 재료마다 궁합에 따라 올바르게 조리한 음식을 제공합니다. \n가정의 달을 맞아 진진반상에서 99% 파격 할인가의 한상차림을 제공합니다. \n부모님 한분을 모시고 오실 때 마다 고창에서 직접 재배한 식재료로 임금님 수라상을 차려드립니다. 두분을 모시고 오시면 점심 저녁까지 차려드립니다",
+                "start_dttm": "2021-05-05 00:00:00",
+                "end_dttm": "2021-05-08 00:00:00",
+                "announce": true,
+                "status": "S",
+                "photo_list": [
+                    {
+                        "name": "스크린샷 2021-04-20 오후 2.40.46.png",
+                        "url": "http://t1-sandbox.kakaocdn.net/mystore/C5C6CCD14F2444B6945F651E8404CA7A",
+                        "photo_id": 198
+                    }
+                ]
+            },
+            {
+                "news_id": 198,
+                "own_place_id": 226,
+                "news_type": "coupon",
+                "title": "진진반상 가정의달 5월 맞이 쿠폰",
+                "content": "우리의 땅에서 생산된 좋은 식재료들로 재료마다 궁합에 따라 올바르게 조리한 음식을 제공합니다. \n가정의 달을 맞아 진진반상에서 99% 파격 할인가의 한상차림을 제공합니다. \n부모님 한분을 모시고 오실 때 마다 고창에서 직접 재배한 식재료로 임금님 수라상을 차려드립니다. 두분을 모시고 오시면 점심 저녁까지 차려드립니다",
+                "start_dttm": "2021-05-05 00:00:00",
+                "end_dttm": "2021-05-08 00:00:00",
+                "announce": true,
+                "status": "S",
+                "photo_list": [
+                    {
+                        "name": "스크린샷 2021-04-20 오후 2.40.46.png",
+                        "url": "http://t1-sandbox.kakaocdn.net/mystore/C5C6CCD14F2444B6945F651E8404CA7A",
+                        "photo_id": 198
+                    }
+                ]
+            },
+            {
+                "news_id": 198,
+                "own_place_id": 226,
+                "news_type": "coupon",
+                "title": "진진반상 가정의달 5월 맞이 쿠폰",
+                "content": "우리의 땅에서 생산된 좋은 식재료들로 재료마다 궁합에 따라 올바르게 조리한 음식을 제공합니다. \n가정의 달을 맞아 진진반상에서 99% 파격 할인가의 한상차림을 제공합니다. \n부모님 한분을 모시고 오실 때 마다 고창에서 직접 재배한 식재료로 임금님 수라상을 차려드립니다. 두분을 모시고 오시면 점심 저녁까지 차려드립니다",
+                "start_dttm": "2021-05-05 00:00:00",
+                "end_dttm": "2021-05-08 00:00:00",
+                "announce": true,
+                "status": "S",
+                "photo_list": [
+                    {
+                        "name": "스크린샷 2021-04-20 오후 2.40.46.png",
+                        "url": "http://t1-sandbox.kakaocdn.net/mystore/C5C6CCD14F2444B6945F651E8404CA7A",
+                        "photo_id": 198
+                    }
+                ]
+            },
+            {
+                "news_id": 198,
+                "own_place_id": 226,
+                "news_type": "coupon",
+                "title": "진진반상 가정의달 5월 맞이 쿠폰",
+                "content": "우리의 땅에서 생산된 좋은 식재료들로 재료마다 궁합에 따라 올바르게 조리한 음식을 제공합니다. \n가정의 달을 맞아 진진반상에서 99% 파격 할인가의 한상차림을 제공합니다. \n부모님 한분을 모시고 오실 때 마다 고창에서 직접 재배한 식재료로 임금님 수라상을 차려드립니다. 두분을 모시고 오시면 점심 저녁까지 차려드립니다",
+                "start_dttm": "2021-05-05 00:00:00",
+                "end_dttm": "2021-05-08 00:00:00",
+                "announce": true,
+                "status": "S",
+                "photo_list": [
+                    {
+                        "name": "스크린샷 2021-04-20 오후 2.40.46.png",
+                        "url": "http://t1-sandbox.kakaocdn.net/mystore/C5C6CCD14F2444B6945F651E8404CA7A",
+                        "photo_id": 198
+                    }
+                ]
             }
         ]
     }
-}
 }
